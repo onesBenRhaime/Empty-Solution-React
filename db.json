@@ -1,0 +1,40 @@
+{
+  "Competitions": [
+    {
+      "name": "Meet & Greet",
+      "fees": "30",
+      "date": "01/04/2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae consectetur earum distinctio culpa voluptatum eum ad laboriosam qui, dolore repudiandae cupiditate rerum optio eius.Doloribus numquam velit veritatis quisquam magnam.",
+      "participantsList": [
+        "nader",
+        "dszdzdzdz",
+        "cscscsc",
+        "dzsxwzsx",
+        "salajhahja",
+        "zdzdzd"
+      ],
+      "participants": 6,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Meet & Greet",
+      "fees": "30",
+      "date": "01/04/2023",
+      "participants": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae consectetur earum distinctio culpa voluptatum eum ad laboriosam qui, dolore repudiandae cupiditate rerum optio eius.Doloribus numquam velit veritatis quisquam magnam.",
+      "participantsList": [
+        "ones",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem",
+        "meriem"
+      ]
+    }
+  ]
+}
